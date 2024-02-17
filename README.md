@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bsg2101" alt="bsg2101" /></a> </p>
 <p align="left"> <a href="https://twitter.com/bsg2015_" target="blank"><img src="https://img.shields.io/twitter/follow/bsg2015_?logo=twitter&style=for-the-badge" alt="bsg2015_" /></a> </p>
 
-- 🔭 I’m currently working on [Backend for React](https://state-enj8y.kinsta.page/)
+- 🔭 I’m currently working on [FrontEnd for React](https://state-enj8y.kinsta.page/)
 
 - 🌱 I’m currently learning **Full Stack**
 
