@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 👨‍💻 All of my projects are available at [baransemihguzel.com](baransemihguzel.com)
+- 👨‍💻 All of my projects are available at [baranguzel.tr](baranguzel.tr)
 
 - 💬 Ask me about **.NET Core and .NET MVC**
 
